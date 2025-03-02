@@ -16,3 +16,12 @@
 {
   "workers_dev": false
 }
+
+{
+  "routes": [
+    {
+      "pattern": "2t1cstudio.us.kg",
+      "custom_domain": true
+    }
+  ]
+}
